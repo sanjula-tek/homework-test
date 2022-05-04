@@ -1,0 +1,36 @@
+commit 06d2957b10eca37102f251248f44d20ab0be7469
+Author: Mahathantila <smahathantila@teksystems.com>
+Date:   Wed May 4 17:23:06 2022 -0500
+
+    updated h1 tag to h2 tag
+
+commit 06f6de8529abd1893ea5fe04c17128def421282b
+Merge: 7958e4c 2cdaa52
+Author: Mahathantila <smahathantila@teksystems.com>
+Date:   Wed May 4 17:11:54 2022 -0500
+
+    Merge branch 'updated-title' into develop
+
+commit 2cdaa52b89a543bbf59e6ec4dbc0f77ddad86a2a
+Author: Mahathantila <smahathantila@teksystems.com>
+Date:   Wed May 4 17:10:53 2022 -0500
+
+    updated title in index.html
+
+commit 7958e4c22b55a25f515d1098fa1308e663232d7b
+Author: Mahathantila <smahathantila@teksystems.com>
+Date:   Wed May 4 17:09:29 2022 -0500
+
+    added body to index.html
+
+commit 03e762248f7ae0b51029a7a1283f04d29be907d3
+Author: Mahathantila <smahathantila@teksystems.com>
+Date:   Wed May 4 17:08:23 2022 -0500
+
+    inital commit, added index.html
+
+commit b68c13715299fba9c993c9a9968f4ebd6116da56
+Author: sanjula-tek <104847451+sanjula-tek@users.noreply.github.com>
+Date:   Wed May 4 17:05:22 2022 -0500
+
+    Initial commit
